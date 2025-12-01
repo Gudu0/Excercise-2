@@ -6,4 +6,4 @@
 - Physics based colissions
 - Different object shapes
 
-[Play Here](https://gd.games/gudu01/ice-blocks](https://gd.games/gudu01/excersice-2))
+[Play Here](https://gd.games/gudu01/excersice-2)
